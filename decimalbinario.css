@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(207, 164, 248);
+    color: white;
+    text-align: center;
+
+}
+
+.div-zero{
+    background-color: white;
+    padding: 10px;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    border: 1px;
+    border-color: black;
+}
+
+.div-primeiro{
+    color: rgb(98, 9, 121);
+    text-align: center;
+    margin: 0px 60px 0px 60px;
+    width: 600px;
+}
+
+.btn-converter{
+    background-color: blueviolet;
+    color: white;
+}
+
+.btn-converter:hover{
+    background-color: rgb(207, 6, 197);
+}

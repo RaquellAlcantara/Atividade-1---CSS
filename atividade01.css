@@ -1,0 +1,56 @@
+body{
+    background-color: rgba(107, 176, 255, 0.808);
+    color: white;
+}
+
+.primeiro-div{
+background-color: rgb(47, 248, 188);
+float: left;
+width: 972px;
+text-align: center;
+padding: 10px;
+margin: 0px 0px 0px 300px;
+}
+
+.primeiro-div1{
+    color: black;
+    font-size: 17px;
+    float: left;
+    text-align: center;
+    margin: 0px 65px 0px 65px;
+    padding: 5px;
+    
+}
+
+.segundo-div{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    text-align: justify;
+    float: left;
+    margin: 10px 0px 0px 300px;
+    width: 800px;    
+}
+
+.terceira-div {
+    background-color: rgb(47, 248, 188);
+    color: black;
+    float: left;
+    margin: 10px 0px 0px 10px;
+    width: 142px;
+    height: 412px;
+    padding-left: 20px;
+    font-size: 18px;
+}
+
+.quarta-div {
+    background-color: white;
+    color: black;
+    float: left;
+    width: 985px;
+    margin: 10px 0px 0px 300px;
+    padding: 10px 0px 0px 7px;
+    height: 60px;
+}
+
+ 
